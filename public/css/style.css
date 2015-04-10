@@ -1,0 +1,25 @@
+.jumbotron {
+    padding-top: 40px;
+}
+
+legend {
+    margin: 0;
+}
+
+.well{
+    margin-top: 100px;
+}
+
+div.postRec div:first-child {
+    font-weight: bold;
+}
+
+div.postRec a {
+    font-size: 0.8em;
+}
+hr {
+    border: none;
+    color: #00262f;
+    background-color: #00262f;
+    height: 1px;
+}
